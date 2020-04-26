@@ -1,7 +1,7 @@
 {
     "name": "Gateway Merchant Server",
     "description": "Sample PHP application for processing mobile SDK transactions on the Gateway",
-    "repository": "https://github.com/atsmobileandroid/care-heroku.git",
+    "repository": "https://git.heroku.com/care-hospital.git",
     "website":    "https://github.com/atsmobileandroid/care-heroku",
     "env": {
         "GATEWAY_MERCHANT_ID": {
